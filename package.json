@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/arzartden/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/arzartden/frontend-project-lvl2/actions)",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gendiff": "bin/genDiff.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzartden/frontend-project-lvl2.git"
+  },
+  "author": "Arthur Arzhannikov <arzartden@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arzartden/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/arzartden/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
