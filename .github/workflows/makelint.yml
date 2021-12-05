@@ -11,5 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: install project
+        run: make install
+
       - name: Run check
         run: make lint
