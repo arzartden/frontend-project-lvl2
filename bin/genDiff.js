@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import diff from '../index.js';
+import diffCommand from '../index.js';
 
-diff.parse();
+diffCommand.parse();

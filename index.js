@@ -1,3 +1,3 @@
-import diff from './src/diff.js';
+import diffCommand from './src/diffCommand.js';
 
-export default diff;
+export default diffCommand;

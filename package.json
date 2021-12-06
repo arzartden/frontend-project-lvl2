@@ -21,7 +21,11 @@
   },
   "homepage": "https://github.com/arzartden/frontend-project-lvl2#readme",
   "dependencies": {
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "lodash.has": "^4.5.2",
+    "lodash.isequal": "^4.5.0",
+    "lodash.sortby": "^4.7.0",
+    "lodash.uniq": "^4.5.0"
   },
   "devDependencies": {
     "eslint": "^8.4.0",
