@@ -1,5 +1,5 @@
 import { Command } from 'commander/esm.mjs';
-import diffRead from './diffRead.js';
+import diffGen from './diffGen.js';
 
 const diffCommand = new Command();
 diffCommand
@@ -9,7 +9,7 @@ diffCommand
   .version('0.0.1', '-V, --version', 'output the version number')
   .option('-f, --format [type]', 'output format')
   .action((filepath1, filepath2) => {
-    console.log(diffRead(filepath1, filepath2));
+    console.log(diffGen(filepath1, filepath2));
   });
 
 export default diffCommand;
