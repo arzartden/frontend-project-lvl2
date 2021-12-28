@@ -11,7 +11,7 @@ diffCommand
   .version('0.0.1', '-V, --version', 'output the version number')
   .option('-f, --format [type]', 'output format')
   .action((filepath1, filepath2) => {
-    console.log(diffGen(filepath1, filepath2));
+    console.log(diffGen(filepath1, filepath2, diffCommand.format));
   });
 
 diffCommand.parse();
