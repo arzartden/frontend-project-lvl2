@@ -23,4 +23,4 @@
 
 ### Comparing files with the **_json_** formatter
 
-[![asciicast](https://asciine*ma.org/a/E6c8fWKvkjeMxchtzpNe7dsAy.svg)](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy)
+[![asciicast](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy.svg)](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy)
