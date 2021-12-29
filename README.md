@@ -15,4 +15,4 @@
 
 ### Comparing files with the default formatter (_stylish_)
 
-[![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
+[![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8?t=5.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
