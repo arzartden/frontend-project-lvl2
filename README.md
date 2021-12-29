@@ -3,10 +3,16 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/87590281bca5ba34328c/maintainability)](https://codeclimate.com/github/arzartden/frontend-project-lvl2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/87590281bca5ba34328c/test_coverage)](https://codeclimate.com/github/arzartden/frontend-project-lvl2/test_coverage)
 
-## Project installation and comparing two configuration files (json)
+## The _Difference Calculator_ project
+
+### Project installation and comparing two configuration files (_json_)
 
 [![asciicast](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA.svg)](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA)
 
-## Comparing two configuration files (yml)
+### Comparing two configuration files (_yml_)
 
 [![asciicast](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1.svg)](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1)
+
+### Comparing files with the _default formatter_
+
+[![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
