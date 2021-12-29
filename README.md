@@ -5,18 +5,22 @@
 
 ## The _Difference Calculator_ project
 
-### Project installation and comparing two configuration files (_json_)
+### Project installation and comparing two configuration files (**_json_**)
 
 [![asciicast](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA.svg)](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA)
 
-### Comparing two configuration files (_yml_)
+### Comparing two configuration files (**_yml_**)
 
 [![asciicast](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1.svg)](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1)
 
-### Comparing files with the default formatter (_stylish_)
+### Comparing files with the default formatter (**_stylish_**)
 
 [![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
 
-### Comparing files with the _plain_ formatter
+### Comparing files with the **_plain_** formatter
 
 [![asciicast](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk.svg)](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk)
+
+### Comparing files with the **_json_** formatter
+
+[![asciicast](https://asciine*ma.org/a/E6c8fWKvkjeMxchtzpNe7dsAy.svg)](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy)

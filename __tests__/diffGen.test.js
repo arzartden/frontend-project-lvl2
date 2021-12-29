@@ -27,3 +27,13 @@ test('diffGen formatter plain', () => {
 
   expect(diffGen(getFixturePath('file1.yml'), getFixturePath('file2.json'), 'plain')).toEqual(readFile('expected_file_plformat.txt'));
 });
+
+test('diffGen formatter json', () => {
+  expect(diffGen(getFixturePath('file1.json'), getFixturePath('file2.json'), 'json')).toEqual(readFile('expected_file_jsonformat.txt'));
+
+  expect(diffGen(getFixturePath('file1.yml'), getFixturePath('file2.yml'), 'json')).toEqual(readFile('expected_file_jsonformat.txt'));
+
+  expect(diffGen(getFixturePath('file1.json'), getFixturePath('file2.yml'), 'json')).toEqual(readFile('expected_file_jsonformat.txt'));
+
+  expect(diffGen(getFixturePath('file1.yml'), getFixturePath('file2.json'), 'json')).toEqual(readFile('expected_file_jsonformat.txt'));
+});

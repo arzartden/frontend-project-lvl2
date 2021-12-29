@@ -1,6 +1,6 @@
 import formatStylish from './stylish.js';
 import formatPlain from './plain.js';
-// import renderJson from './json.js';
+import formatJson from './json.js';
 
 const formatter = (formatName, diff) => {
   switch (formatName) {
@@ -8,8 +8,8 @@ const formatter = (formatName, diff) => {
       return formatPlain(diff);
     case 'stylish':
       return formatStylish(diff);
-    // case 'json':
-    //   return renderJson(diff);
+    case 'json':
+      return formatJson(diff);
     default:
       throw new Error('Unsupported format. Please enter the correct format: (plain, json or stylish).');
   }
