@@ -13,6 +13,6 @@
 
 [![asciicast](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1.svg)](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1)
 
-### Comparing files with the _default formatter_
+### Comparing files with the default formatter (_stylish_)
 
 [![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
