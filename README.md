@@ -16,3 +16,7 @@
 ### Comparing files with the default formatter (_stylish_)
 
 [![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
+
+### Comparing files with the _plain_ formatter
+
+[![asciicast](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk.svg)](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk)
