@@ -16,7 +16,7 @@ const buildTreeDiff = (obj1, obj2) => {
       return { name: key, value: obj2[key], status: 'added' };
     }
     if (isPlainObject(obj1[key]) && isPlainObject(obj2[key])) {
-      return { name: key, children: buildTreeDiff(obj1[key], obj2[key]), status: 'nested' };
+      return { name: key, status: 'nested', children: buildTreeDiff(obj1[key], obj2[key]) };
     }
     if (isEqual(obj1[key], obj2[key])) {
       return { name: key, value: obj1[key], status: 'unchanged' };
