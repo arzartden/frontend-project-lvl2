@@ -9,7 +9,7 @@
 
 </div>
 
-#### Description
+### Description
 
 **Difference Calculator** is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example [http://www.jsondiff.com](http://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
 
@@ -24,30 +24,30 @@
 
 <br>
 
-#### Project installation and comparing `json` files
+### Project installation and comparing `json` files
 
 [![asciicast](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA.svg)](https://asciinema.org/a/xdyiNjskrhc04xL3ipSmlLnCA)
 
 <br>
 
-#### Comparing `yml` files
+### Comparing `yml` files
 
 [![asciicast](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1.svg)](https://asciinema.org/a/JSoiCmUnGgXmtdT1YthgGh3g1)
 
 <br>
 
-#### Comparing files with the default `stylish` formatter
+### Comparing files with the default `stylish` formatter
 
 [![asciicast](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8.svg)](https://asciinema.org/a/5Uo5Ma8rRNdiSsTbjJDI3Rmi8)
 
 <br>
 
-#### Comparing files with the `plain` formatter
+### Comparing files with the `plain` formatter
 
 [![asciicast](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk.svg)](https://asciinema.org/a/ci2uMuz5LgzlduCLcaSQbhGTk)
 
 <br>
 
-#### Comparing files with the `json` formatter
+### Comparing files with the `json` formatter
 
 [![asciicast](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy.svg)](https://asciinema.org/a/E6c8fWKvkjeMxchtzpNe7dsAy)
