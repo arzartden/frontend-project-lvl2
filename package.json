@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest --bail"
+    "test": "npx jest"
   },
   "bin": {
     "gendiff": "bin/genDiff.js"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/arzartden/frontend-project-lvl2.git"
   },
-  "author": "Arthur Arzhannikov <arzartden@yandex.ru>",
+  "author": "Artur Arzhannikov <arzartden@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arzartden/frontend-project-lvl2/issues"
@@ -35,9 +35,5 @@
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-jest": "^25.3.0",
     "jest": "^27.4.4"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "transform": {}
   }
 }
