@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## The Generate Difference project
+  ## The Difference Generator Project
 
   <a href="">[![Actions Status](https://github.com/arzartden/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/arzartden/frontend-project-lvl2/actions/workflows/hexlet-check.yml)</a>
   <a href="">[![Actions Status](https://github.com/arzartden/frontend-project-lvl2/workflows/gendiff/badge.svg)](https://github.com/arzartden/frontend-project-lvl2/actions/workflows/makelint.yml)</a>
@@ -11,7 +11,7 @@
 
 ### Description
 
-**Difference Calculator** is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example [http://www.jsondiff.com](http://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
+**Difference Generator** is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example [http://www.jsondiff.com](http://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
 
   **Utility Features**:
 
